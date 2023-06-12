@@ -1,0 +1,5 @@
+<meta>
+    <info author="Teo ST" version="1.0.2" name="AVisarMeca" description="AvisarMeca" type="gamemode" />
+
+    <script src="server.lua" />
+</meta>

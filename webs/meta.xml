@@ -1,0 +1,7 @@
+<meta>
+    <info author="Slothman" version="1.0.2" name="Stealth" description="Allow scripts to insert a ped that simulates combat with a real player" type="gamemode" />
+
+    <script src="client.lua" type="client"/>
+
+
+</meta>

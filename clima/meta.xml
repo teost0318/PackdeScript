@@ -1,0 +1,5 @@
+<meta>
+    <info author="Teo ST" version="1.0.2" name="Clima" description="Cambiar Clima" type="gamemode" />
+
+    <script src="server.lua" />
+</meta>
